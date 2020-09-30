@@ -11,7 +11,7 @@ const Categories = props => {
   return (
 
       <section className="category">
-        {console.log('Props:', props)}
+        {console.log('Props at Category:', props)}
         <h3>Current Category: {props.category.activeCategory.displayName}</h3>
         <ul>
           {Object.keys(props.category.categories).map(category => {
