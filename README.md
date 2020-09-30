@@ -14,6 +14,24 @@ npm test
 UML
 ![](36uml.png)
 
+---
+
+LAB - Class 37  
+Project: Redux - Combined Reducers
+Author: Jennifer Chinzi
+
+Setup  
+npm i
+
+How to initialize/run your application (where applicable)
+npm start
+
+Tests  
+npm test  
+
+UML
+![](36uml.png)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
